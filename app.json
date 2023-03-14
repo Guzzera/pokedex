@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7cda9df6-f6fe-4db8-a878-9b578285b588"
+      }
+    },
+    "owner": "gustavo_reis"
   }
 }
